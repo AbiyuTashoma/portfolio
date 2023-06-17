@@ -12,7 +12,7 @@ Portfolio is a website where the best three projects are presented.
 
 - Html
 - CSS
-- Bootstrap
+- CDN Bootstrap
 
 ## Getting Started
 
@@ -37,5 +37,5 @@ To get started follow one of the options described below.
 3. Dependencies:
 
   ```
-  There are no dependencies.
+  Website is dependent on CDN Bootstrap.
   ```
