@@ -12,6 +12,7 @@ Portfolio is a website where the best three projects are presented.
 
 - Html
 - CSS
+- Bootstrap
 
 ## Getting Started
 
