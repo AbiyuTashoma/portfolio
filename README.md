@@ -1,12 +1,12 @@
 # Portfolio
 
-![bilde]
+![bilde](https://github.com/AbiyuTashoma/portfolio/assets/85228220/7857726a-f0ba-4fc3-a1aa-ded2ae5e2edc)
 
-A website presentation of my projects.
+A website presentation of projects I have been working on.
 
 ## Description
 
-Portfolio is a website where the best three projects are presented.
+Portfolio is a website where selected projects I have been working on are presented.
 
 ## Built With
 
@@ -23,12 +23,12 @@ To get started follow one of the options described below.
 1. The website is hosted on netlify. follow the link
    
   ```
-  https://cerulean-souffle-928f1a.netlify.app/
+  https://vocal-concha-76cf27.netlify.app/
   ```
 
 2. Alternatively you can clone the repo:
   ```
-  https://github.com/Noroff-FEU-Assignments/project-exam-1-AbiyuTashoma 
+  https://github.com/AbiyuTashoma/portfolio
   ```
   ```
   Run index.html from the root folder
