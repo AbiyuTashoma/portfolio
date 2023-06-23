@@ -1,7 +1,8 @@
 .card-hover {
     transition-duration: 0.3s;
 }
+
 .card-hover:hover {
     transform: translate3d(0, -3px, 0);
-    border: solid thin rgb(5, 145, 98);
+    border: solid thin rgb(37, 83, 67);
 }
